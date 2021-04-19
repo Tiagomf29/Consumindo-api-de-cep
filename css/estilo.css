@@ -1,0 +1,48 @@
+div{
+    border: 1px solid;
+    position: relative;
+    left: 26%;
+    width: 50%;
+}
+
+#cabecalho{
+    text-align: center;
+    background-color: aqua;
+}
+#corpo{
+    text-align: center;
+    background-color: lightgrey;
+}
+input:focus{
+    background-color: yellow;
+}
+
+fieldset{
+
+    background-color: wheat;
+    text-align: left;
+}
+legend{
+    font-weight: bolder;
+    font-size: 20px;
+    color: red;
+    text-align: left;
+}
+td{
+    font-weight: bolder; 
+
+}
+thead{
+    float: left;
+}
+tbody{
+    float: left;
+    position: relative;
+    top: 1px;
+    background-color: yellow;
+    border-radius: 4px;
+    
+}
+
+
+
